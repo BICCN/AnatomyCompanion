@@ -41,6 +41,9 @@ An essential step toward understanding brain function is to establish a cellular
 
 #### Inter-areal circuit mapping
 
+- [Neural networks of the mouse cortex, Zingg et al., 2014](https://www.cell.com/fulltext/S0092-8674(14)00222-0)
+- [AAV-Mediated Anterograde Transsynaptic Tagging: Mapping Corticocollicular Input-Defined Neural Pathways for Defense Behaviors, Zingg et al., 2017](https://pubmed.ncbi.nlm.nih.gov/27989459/)
+
 #### Projection-specific profiling
 
 #### Single-cell projection patterns
