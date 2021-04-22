@@ -118,7 +118,7 @@ Retrograde Spinal Injection	Neuroglancer link?
 
 **Extended data Figure 5**
 
-[MOs, MOp, SSp Triple Anterograde Case](https://download.brainimagelibrary.org/15/8d/158d3a3e89fc7719/Triple Anterograde/)
+[MOs, MOp, SSp Triple Anterograde Case](https://download.brainimagelibrary.org/15/8d/158d3a3e89fc7719/Triple-Anterograde/)
 
 
 **Extended data Figure 7**
