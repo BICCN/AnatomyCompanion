@@ -30,7 +30,7 @@ An essential step toward understanding brain function is to establish a cellular
 
 - [Figure 7. Full morphological reconstruction reveals diverse single cell projection motifs.](#Figure-7-Full-morphological-reconstruction-reveals-diverse-single-cell-projection-motifs)
 
-## Extended Data Figures
+- [Extended Data Figures](#extended data figures)
 
 
 
@@ -103,12 +103,14 @@ Panels a-g
 
 Projection barcode sequencing data are deposited at SRA (SRR12247894)				
 
-[Processed projection data and analysis codes](http://dx.doi.org/10.17632/tmxd37fnmg.1)									
+[Processed projection data and analysis codes (Mendeley Data)](http://dx.doi.org/10.17632/tmxd37fnmg.1)									
 
 
 ### *Figure 7. Full morphological reconstruction reveals diverse single cell projection motifs.*
 
+Cellular morphology	Whole brain single cell full morphology reconstructions	fMOST	unpublished	27 cells
 
 
+### *Extended data figures*
 
 
