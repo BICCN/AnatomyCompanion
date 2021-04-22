@@ -35,7 +35,7 @@ An essential step toward understanding brain function is to establish a cellular
 
 #### Cellular morphology
 
-- [Reconstruction of 1,000 Projection Neurons Reveals New Cell Types and Organization of Long-Range Connectivity in the Mouse Brain](https://pubmed.ncbi.nlm.nih.gov/31495573/)
+- [Reconstruction of 1,000 Projection Neurons Reveals New Cell Types and Organization of Long-Range Connectivity in the Mouse Brain, Winnubst et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31495573/)
 
 #### Inter-areal circuit mapping
 
