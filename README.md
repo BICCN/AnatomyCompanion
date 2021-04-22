@@ -46,12 +46,17 @@ An essential step toward understanding brain function is to establish a cellular
 - [Genetic dissection of glutamatergic neuron subpopulations and developmental trajectories in the cerebral cortex, Matho et al., 2020](www.biorxiv.org/content/10.1101/2020.04.22.054064v1)
 - [Hierarchical organization of cortical and thalamic connectivity, Harris et al., 2019](https://www.nature.com/articles/s41586-019-1716-z)
 - [Neural Networks of the Mouse Neocortex, Zingg et al, 2014](https://www.cell.com/fulltext/S0092-8674(14)00222-0)
+- [A transformative tool for trans-synaptic tracing, Reardon et al., 2016](https://www.nature.com/articles/nmeth.3822) 
+- [A Designer AAV Variant Permits Efficient Retrograde Access to Projection Neurons, Tervo et al., 2016](https://www.sciencedirect.com/science/article/pii/S0896627316305803)
+- [Retrograde neuronal tracing with a deletion-mutant rabies virus, Wickersham et al., 2007](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2755236/)
 
 #### Projection-specific profiling
+- [Molecular, spatial and projection diversity of neurons in primary motor cortex revealed by in situ single-cell transcriptomics, Zhang et al., 2020](https://www.biorxiv.org/content/10.1101/2020.06.04.105700v1.full)
+
 
 #### Single-cell projection patterns
 
-
+- [High-Throughput Mapping of Long-Range Neuronal Projection Using In Situ Sequencing](https://www.sciencedirect.com/science/article/pii/S0092867419310748)
 
 
 
