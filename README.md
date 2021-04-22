@@ -17,7 +17,7 @@ An essential step toward understanding brain function is to establish a cellular
 
 - [Figure 2. Data-driven anatomical delineation of the MOp upper limb (MOp-ul) in 2D and 3D.](#Figure-2-Data-driven-anatomical-delineation-of-the-MOp-upper-limb-(MOp-ul)-in-2D-and-3D)
 
-- [Figure 3. Projection target defined MOp-ul neuron types.](#Figure-3-Projection-target-defined-MOp-ul-neuron-types)(#Figure-3-Projection-target-defined MOp-ul-neuron-types)
+- [Figure 3. Projection target defined MOp-ul neuron types.](#Figure-3-Projection-target-defined-MOp-ul-neuron-types) 
 
 - [Figure 4. Brain-wide MOp-ul projection patterns by layer and class.](#Figure-4-Brain-wide-MOp-ul-projection-patterns-by-layer-and-class)
 
