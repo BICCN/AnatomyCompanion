@@ -29,7 +29,6 @@ An essential step toward understanding brain function is to establish a cellular
 - [Figure 6. Projection mapping with single cell resolution using BARseq.](#Figure-6-Projection-mapping-with-single-cell-resolution-using-BARseq)
 
 - [Figure 7. Full morphological reconstruction reveals diverse single cell projection motifs.](#Figure-7-Full-morphological-reconstruction-reveals-diverse-single-cell-projection-motifs)
-
 - [Extended Data Figures](#extended data figures)
 
 
