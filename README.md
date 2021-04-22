@@ -138,6 +138,7 @@ Retrograde Injections (CTB/FG) in TEa/ECT/PERI	Neuroglancer and/or MCP weblink
 
 
 **Extended data Figure 12**
+
 [Anterograde PHAL + Retrograde CTB](https://download.brainimagelibrary.org/26/54/265485a0756103a5/)
 
 
