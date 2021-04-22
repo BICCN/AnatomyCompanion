@@ -93,10 +93,17 @@ Panels a-g
 ### *Figure 5. Brain-wide inputs to MOp-ul by layer and class.*
 
 [CTB Retrograde Injection in MOp](https://download.brainimagelibrary.org/5d/a6/5da6b3121be8bd14/)
+
 [TRIO cases](https://download.brainimagelibrary.org/biccn/cemba/dong/TRIO/)
 
 
 ### *Figure 6. Projection mapping with single cell resolution using BARseq.*
+
+[In situ sequencing data](https://download.brainimagelibrary.org/73/18/7318c6ca1f90e51f/)					
+
+Projection barcode sequencing data are deposited at SRA (SRR12247894)				
+
+[Processed projection data and analysis codes](http://dx.doi.org/10.17632/tmxd37fnmg.1)									
 
 
 ### *Figure 7. Full morphological reconstruction reveals diverse single cell projection motifs.*
