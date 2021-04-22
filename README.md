@@ -44,6 +44,8 @@ An essential step toward understanding brain function is to establish a cellular
 - [Neural networks of the mouse cortex, Zingg et al., 2014](https://www.cell.com/fulltext/S0092-8674(14)00222-0)
 - [AAV-Mediated Anterograde Transsynaptic Tagging: Mapping Corticocollicular Input-Defined Neural Pathways for Defense Behaviors, Zingg et al., 2017](https://pubmed.ncbi.nlm.nih.gov/27989459/)
 - [Genetic dissection of glutamatergic neuron subpopulations and developmental trajectories in the cerebral cortex, Matho et al., 2020](www.biorxiv.org/content/10.1101/2020.04.22.054064v1)
+- [Hierarchical organization of cortical and thalamic connectivity, Harris et al., 2019](https://www.nature.com/articles/s41586-019-1716-z)
+- [Neural Networks of the Mouse Neocortex, Zingg et al, 2014](https://www.cell.com/fulltext/S0092-8674(14)00222-0)
 
 #### Projection-specific profiling
 
