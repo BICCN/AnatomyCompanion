@@ -144,7 +144,7 @@ Retrograde Injections (CTB/FG) in TEa/ECT/PERI	Neuroglancer and/or MCP weblink
 
 **Extended data Figure 13**
 
-[AAVDJ-hSyn-mRuby2-sypEGFP tracing example](https://download.brainimagelibrary.org/15/8d/158d3a3e89fc7719/MOp output - AAVDJ-SypGFP-mRuby/)
+[AAVDJ-hSyn-mRuby2-sypEGFP tracing example](https://download.brainimagelibrary.org/15/8d/158d3a3e89fc7719/MOp output-AAVDJ-SypGFP-mRuby/)
 
 [AAV1-Cre anterograde transsynaptic tracing](https://download.brainimagelibrary.org/3f/10/3f1068884b271b80/)
 
