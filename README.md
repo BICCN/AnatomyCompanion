@@ -61,9 +61,16 @@ An essential step toward understanding brain function is to establish a cellular
 
 - [High-Throughput Mapping of Long-Range Neuronal Projection Using In Situ Sequencing](https://www.sciencedirect.com/science/article/pii/S0092867419310748)
 
+#### Tape transfer method
+- [High-Throughput Method of Whole-Brain Sectioning, Using the Tape-Transfer Technique, Pinskiy et al, 2015](https://pubmed.ncbi.nlm.nih.gov/26181725/)
+
 
 
 ### *Figure 2. Data-driven anatomical delineation of the MOp upper limb (MOp-ul) in 2D and 3D.*
+Panel a	Neuroglancer example - Retrograde Spinal Injection	Neuroglancer (need final url containing all datasets?)
+Panel b	Neuroglancer example - Retrograde Spinal Injection	Neuroglancer (need final url containing all datasets?)
+Panel d	SSp-ul anterograde injection in Scnn1a-Cre x Ai14 mouse	In Neuroglancer?
+	Triple anterograde case	https://download.brainimagelibrary.org/15/8d/158d3a3e89fc7719/Triple Anterograde/
 
 
 ### *Figure 3. Projection target defined MOp-ul neuron types.*
