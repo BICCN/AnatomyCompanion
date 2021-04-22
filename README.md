@@ -4,7 +4,7 @@
 # *Cellular Anatomy of the Mouse Primary Motor Cortex*
 <img src="https://user-images.githubusercontent.com/39201252/115451895-99c59900-a1d2-11eb-801e-7c1578e91545.png" height=70/>
 
-Rodrigo Muñoz-Castañeda, Brian Zingg,  Katherine S. Matho, Quanxin Wang,  Xiaoyin Chen,  Nicholas N. Foster,  Arun Narasimhan, Anan Li,  Karla E. Hirokawa,  Bingxing Huo,  Samik Bannerjee, Laura Korobkova, Chris Sin Park,  Young-Gyun Park, Michael S. Bienkowski,  Uree Chon,   Diek W. Wheeler, Xiangning Li, Yun Wang,   Kathleen Kelly,  Xu An,   Sarojini M. Attili,   Ian Bowman,   Anastasiia Bludova,   Ali Cetin, Liya Ding,   Rhonda Drewes, Florence D’Orazi, Corey Elowsky,   Stephan Fischer,   William Galbavy,   Lei Gao,   Jesse Gillis,   Peter A. Groblewski, Lin Gou,   Joel D. Hahn,   Joshua T. Hatfield,   Houri Hintiryan, Jason Huang, Hideki Kondo, Xiuli Kuang, Philip Lesnar, Xu Li,   eYaoyao Li, Mengkuan Lin, Lijuan Liu,   Darrick Lo,  V Judith Mizrachi, Stephanie Mok,   Maitham Naeemi,   Philip R. Nicovich,   Ramesh Palaniswamy,   Jason Palmer,   Xiaoli Qi,   Elise Shen,   Yu-Chi Sun,   Huizhong Tao,   Wayne Wakemen, Yimin Wang, Peng Xie,    Shenqin Yao, Jin Yuan,   Muye Zhu, Lydia Ng, Li I. Zhang, Byung Kook Lim,  Michael Hawrylycz, Hui Gong,   James C. Gee,   Yongsoo Kim,  V Hanchuan Peng,   Kwanghun Chuang,    X William Yang, Qingming Luo,   Partha P. Mitra,   Anthony M. Zador,   Hongkui Zeng,  V eGiorgio A. Ascoli, Z Josh Huang, Pavel Osten,   Julie A. Harris,  Hong-Wei Dong
+Rodrigo Muñoz-Castañeda, Brian Zingg,  Katherine S. Matho, Quanxin Wang,  Xiaoyin Chen,  Nicholas N. Foster,  Arun Narasimhan, Anan Li,  Karla E. Hirokawa,  Bingxing Huo,  Samik Bannerjee, Laura Korobkova, Chris Sin Park,  Young-Gyun Park, Michael S. Bienkowski,  Uree Chon,   Diek W. Wheeler, Xiangning Li, Yun Wang,   Kathleen Kelly,  Xu An,   Sarojini M. Attili,   Ian Bowman,   Anastasiia Bludova,   Ali Cetin, Liya Ding,   Rhonda Drewes, Florence D’Orazi, Corey Elowsky,   Stephan Fischer,   William Galbavy,   Lei Gao,   Jesse Gillis,   Peter A. Groblewski, Lin Gou,   Joel D. Hahn,   Joshua T. Hatfield,   Houri Hintiryan, Jason Huang, Hideki Kondo, Xiuli Kuang, Philip Lesnar, Xu Li,   eYaoyao Li, Mengkuan Lin, Lijuan Liu,   Darrick Lo,  V Judith Mizrachi, Stephanie Mok,   Maitham Naeemi,   Philip R. Nicovich,   Ramesh Palaniswamy,   Jason Palmer,   Xiaoli Qi,   Elise Shen,   Yu-Chi Sun,   Huizhong Tao,   Wayne Wakemen, Yimin Wang, Peng Xie,    Shenqin Yao, Jin Yuan,   Muye Zhu, Lydia Ng, Li I. Zhang, Byung Kook Lim,  Michael Hawrylycz, Hui Gong,   James C. Gee,   Yongsoo Kim,  V Hanchuan Peng,   Kwanghun Chuang,    X William Yang, Qingming Luo,   Partha P. Mitra,   Anthony M. Zador,   Hongkui Zeng,  Giorgio A. Ascoli, Z Josh Huang, Pavel Osten,   Julie A. Harris,  Hong-Wei Dong
  
  
  
@@ -91,6 +91,9 @@ Panels a-g
 
 
 ### *Figure 5. Brain-wide inputs to MOp-ul by layer and class.*
+
+[CTB Retrograde Injection in MOp](https://download.brainimagelibrary.org/5d/a6/5da6b3121be8bd14/)
+[TRIO cases](https://download.brainimagelibrary.org/biccn/cemba/dong/TRIO/)
 
 
 ### *Figure 6. Projection mapping with single cell resolution using BARseq.*
