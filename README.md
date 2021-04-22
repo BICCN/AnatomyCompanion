@@ -73,7 +73,7 @@ Panel b	Neuroglancer example - Retrograde Spinal Injection	Neuroglancer (need fi
 
 Panel d	SSp-ul anterograde injection in Scnn1a-Cre x Ai14 mouse	In Neuroglancer?
 
-[Triple anterograde case](https://download.brainimagelibrary.org/15/8d/158d3a3e89fc7719/Triple Anterograde/)
+- [Triple anterograde case](https://download.brainimagelibrary.org/15/8d/158d3a3e89fc7719/Triple Anterograde/)
 
 
 ### *Figure 3. Projection target defined MOp-ul neuron types.*
