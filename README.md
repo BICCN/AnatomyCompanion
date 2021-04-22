@@ -112,4 +112,37 @@ Cellular morphology	Whole brain single cell full morphology reconstructions	fMOS
 
 ### *Extended data figures*
 
+**Extended data Figure 4**
 
+Retrograde Spinal Injection	Neuroglancer link?
+
+**Extended data Figure 5**
+[MOs, MOp, SSp Triple Anterograde Case](https://download.brainimagelibrary.org/15/8d/158d3a3e89fc7719/Triple Anterograde/)
+
+
+**Extended data Figure 7**
+[Allen Reference Atlas and Franklin-Paxinos atlas onto the adult CCF](https://kimlab.io/brain-map/atlas/)
+
+
+**Extended data Figure 9**
+Retrograde Injections (CTB/FG) in TEa/ECT/PERI	Neuroglancer and/or MCP weblink
+
+**Extended data Figure 10**
+
+[Anterograde PHAL](https://download.brainimagelibrary.org/26/54/265485a0756103a5/)
+
+[Retrograde Injections (CTB/FG) in cortex and thalamus]	Neuroglancer and/or MCP weblink
+
+
+**Extended data Figure 12**
+[Anterograde PHAL + Retrograde CTB](https://download.brainimagelibrary.org/26/54/265485a0756103a5/)
+
+
+**Extended data Figure 13**
+[AAVDJ-hSyn-mRuby2-sypEGFP tracing example](https://download.brainimagelibrary.org/15/8d/158d3a3e89fc7719/MOp output - AAVDJ-SypGFP-mRuby/)
+
+[AAV1-Cre anterograde transsynaptic tracing](https://download.brainimagelibrary.org/3f/10/3f1068884b271b80/)
+
+
+**Extended data Figure 19**
+[BARseq](http://dx.doi.org/10.17632/tmxd37fnmg.1)
