@@ -44,7 +44,7 @@ An essential step toward understanding brain function is to establish a cellular
 
 
 
-### *Extended Data Figure 1. Overview of methods, analysis, and resources.*
+### *Extended Data Figure 1. Overview of methods, analyses, and resources.*
 
 #### Cellular morphology
 
