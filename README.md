@@ -32,6 +32,7 @@ An essential step toward understanding brain function is to establish a cellular
 - [Extended Data Figures](#extended-data-figures)
 
 
+
 ## Key Resources ##
 
 [Brain Archictecture Project](http://brainarchitecture.org)
