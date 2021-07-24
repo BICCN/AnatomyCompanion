@@ -36,6 +36,10 @@ An essential step toward understanding brain function is to establish a cellular
 
 ## Key Resources ##
 
+The Mouse Connectome Project (MCP) seeks to develop a multimodal multiscale connectome and cell-type map of the mammalian brain using advanced tracing, imaging, and computational methods. MCP seeks to develop a multimodal multiscale connectome and cell-type map of the mammalian brain using advanced tracing, imaging, and computational methods.
+
+[iConnectome](http://brain.neurobio.ucla.edu)
+
 The Brain Architecture Project is a collaborative effort aimed at creating an integrated resource containing knowledge about nervous system architecture in multiple species, with extensive whole-brain light microscopic data sets available for Mouse and Marmoset as well as for other species including Zebra Finch and Human.
 
 [Brain Archictecture Project](http://brainarchitecture.org)
