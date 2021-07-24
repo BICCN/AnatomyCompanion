@@ -22,7 +22,7 @@ An essential step toward understanding brain function is to establish a cellular
 
 - [Figure 1. Anatomical delineation of the MOp upper limb (MOp-ul) and its organization.](#Figure-1-Anatomical-delineation-of-the-MOp-upper-limb-and-its-organization) 
 
-- [Figure 2. Brain-wide MOp-ul projection patterns by layer and class.](#Figure-4-Brain-wide-MOp-ul-projection-patterns-by-layer-and-class)
+- [Figure 2. Brain-wide MOp-ul projection patterns by layer and class.](#Figure-2-Brain-wide-MOp-ul-projection-patterns-by-layer-and-class)
 
 - [Figure 5. Brain-wide inputs to MOp-ul by layer and class.](Figure-5-Brain-wide-inputs-to-MOp-ul-by-layer-and-class)
 
