@@ -24,11 +24,12 @@ An essential step toward understanding brain function is to establish a cellular
 
 - [Figure 2. Brain-wide MOp-ul projection patterns by layer and class.](#Figure-2-Brain-wide-MOp-ul-projection-patterns-by-layer-and-class)
 
-- [Figure 5. Brain-wide inputs to MOp-ul by layer and class.](Figure-5-Brain-wide-inputs-to-MOp-ul-by-layer-and-class)
+- [Figure 3. Brain-wide inputs to MOp-ul by layer and class.](Figure-3-Brain-wide-inputs-to-MOp-ul-by-layer-and-class)
 
-- [Figure 6. Projection mapping with single cell resolution using BARseq.](#Figure-6-Projection-mapping-with-single-cell-resolution-using-BARseq)
+- [Figure 4. Projection mapping with single cell resolution using BARseq.](#Figure-4-Projection-mapping-with-single-cell-resolution-using-BARseq)
 
-- [Figure 7. Full morphological reconstruction reveals diverse single cell projection motifs.](#Figure-7-Full-morphological-reconstruction-reveals-diverse-single-cell-projection-motifs)
+- [Figure 5. Full morphological reconstruction reveals diverse single cell projection motifs.](#Figure-5-Full-morphological-reconstruction-reveals-diverse-single-cell-projection-motifs)
+
 - [Extended Data Figures](#extended-data-figures)
 
 
@@ -92,14 +93,14 @@ Panel d	SSp-ul anterograde injection in Scnn1a-Cre x Ai14 mouse	In Neuroglancer?
 [AAV1-Cre anterograde transsynaptic tracing](https://download.brainimagelibrary.org/3f/10/3f1068884b271b80/)
 
 
-### *Figure 5. Brain-wide inputs to MOp-ul by layer and class.*
+### *Figure 3. Brain-wide inputs to MOp-ul by layer and class.*
 
 [CTB Retrograde Injection in MOp](https://download.brainimagelibrary.org/5d/a6/5da6b3121be8bd14/)
 
 [TRIO cases](https://download.brainimagelibrary.org/biccn/cemba/dong/TRIO/)
 
 
-### *Figure 6. Projection mapping with single cell resolution using BARseq.*
+### *Figure 4. Projection mapping with single cell resolution using BARseq.*
 
 [In situ sequencing data](https://download.brainimagelibrary.org/73/18/7318c6ca1f90e51f/)					
 
@@ -108,7 +109,7 @@ Projection barcode sequencing data are deposited at SRA (SRR12247894)
 [Processed projection data and analysis codes (Mendeley Data)](http://dx.doi.org/10.17632/tmxd37fnmg.1)									
 
 
-### *Figure 7. Full morphological reconstruction reveals diverse single cell projection motifs.*
+### *Figure 5. Full morphological reconstruction reveals diverse single cell projection motifs.*
 
 Cellular morphology	Whole brain single cell full morphology reconstructions	fMOST	unpublished	27 cells
 
