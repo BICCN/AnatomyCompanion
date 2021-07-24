@@ -92,7 +92,10 @@ Panel d	SSp-ul anterograde injection in Scnn1a-Cre x Ai14 mouse	In Neuroglancer?
 
 [Triple anterograde case](https://download.brainimagelibrary.org/15/8d/158d3a3e89fc7719/TripleAnterograde/)
 
- 
+Neuroglancer Github code repositories
+
+[Google](https://github.com/google/neuroglancer)
+[Neurodata](https://github.com/neurodata/neuroglancer)
 
 ### *Figure 2. Brain wide MOp ul projection patterns by layer and class.*
  
