@@ -86,9 +86,7 @@ Panel d	SSp-ul anterograde injection in Scnn1a-Cre x Ai14 mouse	In Neuroglancer?
  
 
 ### *Figure 2. Brain wide MOp ul projection patterns by layer and class.*
-
-Panels a-g	
-
+ 
 [PHAL anterograde tracing](https://download.brainimagelibrary.org/26/54/265485a0756103a5/)
 
 [AAV1-Cre anterograde transsynaptic tracing](https://download.brainimagelibrary.org/3f/10/3f1068884b271b80/)
