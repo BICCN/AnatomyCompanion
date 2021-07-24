@@ -36,6 +36,8 @@ An essential step toward understanding brain function is to establish a cellular
 
 ## Key Resources ##
 
+The Brain Architecture Project is a collaborative effort aimed at creating an integrated resource containing knowledge about nervous system architecture in multiple species, with extensive whole-brain light microscopic data sets available for Mouse and Marmoset as well as for other species including Zebra Finch and Human.
+
 [Brain Archictecture Project](http://brainarchitecture.org)
 
 [Neuromorpho.org](http://neuromorpho.org)
