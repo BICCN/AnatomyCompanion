@@ -24,7 +24,7 @@ An essential step toward understanding brain function is to establish a cellular
 
 - [Figure 2. Brain-wide MOp-ul projection patterns by layer and class.](#Figure-2-Brain-wide-MOp-ul-projection-patterns-by-layer-and-class)
 
-- [Figure 3. Brain-wide inputs to MOp-ul by layer and class.](Figure-3-Brain-wide-inputs-to-MOp-ul-by-layer-and-class)
+- [Figure 3. Brain-wide inputs to MOp-ul by layer and class.](#Figure-3-Brain-wide-inputs-to-MOp-ul-by-layer-and-class)
 
 - [Figure 4. Projection mapping with single cell resolution using BARseq.](#Figure-4-Projection-mapping-with-single-cell-resolution-using-BARseq)
 
