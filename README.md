@@ -36,13 +36,15 @@ An essential step toward understanding brain function is to establish a cellular
 
 ## Key Resources ##
 
-The Mouse Connectome Project (MCP) seeks to develop a multimodal multiscale connectome and cell-type map of the mammalian brain using advanced tracing, imaging, and computational methods. MCP seeks to develop a multimodal multiscale connectome and cell-type map of the mammalian brain using advanced tracing, imaging, and computational methods.
+The **Mouse Connectome Project (MCP)** seeks to develop a multimodal multiscale connectome and cell-type map of the mammalian brain using advanced tracing, imaging, and computational methods. MCP seeks to develop a multimodal multiscale connectome and cell-type map of the mammalian brain using advanced tracing, imaging, and computational methods.
 
 [iConnectome](http://brain.neurobio.ucla.edu)
 
-The Brain Architecture Project is a collaborative effort aimed at creating an integrated resource containing knowledge about nervous system architecture in multiple species, with extensive whole-brain light microscopic data sets available for Mouse and Marmoset as well as for other species including Zebra Finch and Human.
+The **Brain Architecture Project** is a collaborative effort aimed at creating an integrated resource containing knowledge about nervous system architecture in multiple species, with extensive whole-brain light microscopic data sets available for Mouse and Marmoset as well as for other species including Zebra Finch and Human.
 
 [Brain Archictecture Project](http://brainarchitecture.org)
+
+**NeuroMorpho.Org** is a centrally curated inventory of digitally reconstructed neurons associated with peer-reviewed publications. It contains contributions from over 500 laboratories worldwide and is continuously updated as new morphological reconstructions are collected, published, and shared. To date, NeuroMorpho.Org is the largest collection of publicly accessible 3D neuronal reconstructions and associated metadata.
 
 [Neuromorpho.org](http://neuromorpho.org)
 
