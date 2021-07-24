@@ -85,7 +85,7 @@ Panel d	SSp-ul anterograde injection in Scnn1a-Cre x Ai14 mouse	In Neuroglancer?
 
  
 
-### *Figure 4 Brain wide MOp ul projection patterns by layer and class.*
+### *Figure 2 Brain wide MOp ul projection patterns by layer and class.*
 
 Panels a-g	
 
