@@ -125,7 +125,8 @@ Projection barcode sequencing data are deposited at SRA (SRR12247894)
  					
 [fMOST imaged brains from the Allen Institute](https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/) 
 					
-Single cell reconstructions ([unregistered](https://download.brainimagelibrary.org/biccn/zeng/luo/fmost/cells/)	 and [25 um CCF-registered)](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/)			
+Single cell reconstructions ([unregistered](https://download.brainimagelibrary.org/biccn/zeng/luo/fmost/cells/)	 and [25 um CCF-registered)](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/)
+
 [Mouse Light Neuron Browser](http://ml-neuronbrowser.janelia.org/)	
 
 [Neuromorpho Gong (Thy1-YFP-H)](http://neuromorpho.org/NeuroMorpho_Linkout.jsp?PMID=32405029)
