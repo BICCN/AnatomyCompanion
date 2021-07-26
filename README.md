@@ -123,12 +123,10 @@ Projection barcode sequencing data are deposited at SRA (SRR12247894)
 ### *Figure 5. Full morphological reconstruction reveals diverse single cell projection motifs.*
 
  					
-fMOST imaged brains from the Allen Institute 
-[Set 1](https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/)
-[Set 2](https://download.brainimagelibrary.org/biccn/zeng/luo/fmost/	)		
+[fMOST imaged brains from the Allen Institute](https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/) 
 					
 Single cell reconstructions (unregistered and 25 um CCF-registered)					
-	Allen Institute	https://download.brainimagelibrary.org/biccn/zeng/luo/fmost/cells/			
+[Allen Institute](https://download.brainimagelibrary.org/biccn/zeng/luo/fmost/cells/)			
 	Allen Institute	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/			
 	[Janelia](http://ml-neuronbrowser.janelia.org/)			
 	[Gong (Thy1-YFP-H)](http://neuromorpho.org/NeuroMorpho_Linkout.jsp?PMID=32405029)			
