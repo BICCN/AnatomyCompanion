@@ -49,6 +49,11 @@ The **Brain Architecture Project** is a collaborative effort aimed at creating a
 [Neuromorpho.org](http://neuromorpho.org)
 
 
+The Allen Institute for Brain Science has completed the three-dimensional mapping of the mouse cortex as part of the Allen Mouse Common Coordinate Framework (CCF): a standardized spatial coordinate system for comparing many types of data on the brain from the suite of Allen Brain Atlas resources. The Common Coordinate Framework was built by carefully averaging the anatomy of 1,675 specimens from the Allen Mouse Brain Connectivity Atlas. Researchers used transgenic mouse lines and data from viral tracers to draw boundaries between 43 regions of the cortex. The end result is a template brain rendered faithfully in three dimensions, which serves as a useful guide to mouse brain anatomy as well as a platform for comparing data across many Allen Brain Atlas resources
+
+[Allen Reference Atlas and Franklin-Paxinos atlas onto the adult CCF](https://kimlab.io/brain-map/atlas/)
+
+
 
 
 ### *Extended Data Figure 1. Overview of methods, analyses, and resources.*
@@ -181,27 +186,18 @@ Retrograde Spinal Injection	Neuroglancer link?
 
 
 **Extended data Figure 7**
-
-[Allen Reference Atlas and Franklin-Paxinos atlas onto the adult CCF](https://kimlab.io/brain-map/atlas/)
-
-
-**Extended data Figure 9**
-
-Retrograde Injections (CTB/FG) in TEa/ECT/PERI	Neuroglancer and/or MCP weblink
+ 
+ Retrograde Injections (CTB/FG) in TEa/ECT/PERI	Neuroglancer and/or MCP weblink
+ 
 
 **Extended data Figure 10**
 
 [Anterograde PHAL](https://download.brainimagelibrary.org/26/54/265485a0756103a5/)
 
 [Retrograde Injections (CTB/FG) in cortex and thalamus]	Neuroglancer and/or MCP weblink
+ 
 
-
-**Extended data Figure 12**
-
-[Anterograde PHAL + Retrograde CTB](https://download.brainimagelibrary.org/26/54/265485a0756103a5/)
-
-
-**Extended data Figure 13**
+**Extended data Figure 11**
 
 [AAVDJ-hSyn-mRuby2-sypEGFP tracing example](https://download.brainimagelibrary.org/15/8d/158d3a3e89fc7719/MOp-output-AAVDJ-SypGFP-mRuby/)
 
