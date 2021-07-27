@@ -101,6 +101,29 @@ Connectivity and structural organization examples of MOp-ul.
 
 [AAV1-Cre anterograde transsynaptic tracing](https://download.brainimagelibrary.org/3f/10/3f1068884b271b80/)
 
+[AAV1-EGFP](http://connectivity.brain-map.org/projection/experiment/127084296)
+
+[Cre-dependent AAV1-EGFP (Ntsr1)](http://connectivity.brain-map.org/projection/experiment/159651060)
+
+[Cre-dependent AAV1-EGFP (Sim1)](http://connectivity.brain-map.org/projection/experiment/297711339)
+
+[Cre-dependent AAV8-EGFP (PlxnD1)](http://brainarchitecture.org/viewer4/mouse/map/8401F)
+
+[Cre-dependent AAV8-EGFP (PlxnD1)](http://brainarchitecture.org/viewer4/mouse/map/28819F)
+
+[Cre-dependent AAV8-EGFP (Fezf2)](http://brainarchitecture.org/viewer4/mouse/map/28827F)
+
+[Cre-dependent AAV8-EGFP (Fezf2)](http://brainarchitecture.org/viewer4/mouse/map/28917F)
+
+[Cre-dependent AAV8-EGFP (Tle4)](http://brainarchitecture.org/viewer4/mouse/map/8421F)
+
+[Cre-dependent AAV8-EGFP (Tle4)](http://brainarchitecture.org/viewer4/mouse/map/28814F)
+
+[Cre-dependent AAV8-EGFP (Foxp2)](http://braincircuits.org/viewer4/mouse/map/29158F)
+
+[Cre-dependent AAV8-EGFP (Foxp2)](http://braincircuits.org/viewer4/mouse/map/29159F)
+
+
 
 ### *Figure 3. Brain-wide inputs to MOp-ul by layer and class.*
  							
