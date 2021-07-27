@@ -171,7 +171,7 @@ Single cell reconstructions ([unregistered](https://download.brainimagelibrary.o
 
 [Neuromorpho Gong (Thy1-YFP-H)](http://neuromorpho.org/NeuroMorpho_Linkout.jsp?PMID=32405029)
 
-[SEU-Allen extraction code](https://pan.baidu.com/s/18CNr9h_huZseGKYxNVK2Kg)		
+[SEU-Allen extraction code](https://github.com/Vaa3D/BICCN_anatomy_MOpg)		
 
 
 ### *Extended data figures*
