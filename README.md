@@ -176,6 +176,10 @@ Single cell reconstructions ([unregistered](https://download.brainimagelibrary.o
 
 ### *Extended data figures*
 
+**Extended data Figure 2**
+
+[Allen Reference Atlas plates mapped to CCF](https://kimlab.io/data_share/files/ARA_on_CCF/2021_ARA_on_CCF_forPublication.7z)
+
 **Extended data Figure 4**
 
 Retrograde Spinal Injection	Neuroglancer link?
