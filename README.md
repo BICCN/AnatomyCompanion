@@ -84,11 +84,9 @@ The **Brain Architecture Project** is a collaborative effort aimed at creating a
 
 
 ### *Figure 1. Anatomical delineation of the MOp upper limb and its organization.*
-Panel a	Neuroglancer example - Retrograde Spinal Injection	Neuroglancer (need final url containing all datasets?)
 
-Panel b	Neuroglancer example - Retrograde Spinal Injection	Neuroglancer (need final url containing all datasets?)
-
-Panel d	SSp-ul anterograde injection in Scnn1a-Cre x Ai14 mouse	In Neuroglancer?
+Connectivity and structural organization examples of MOp-ul. 
+[Neuroglancer](https://viz.neurodata.io/?json_url=https://json.neurodata.io/v1?NGStateID=LwZ24nSZk1JTHw)  
 
 [Triple anterograde case](https://download.brainimagelibrary.org/15/8d/158d3a3e89fc7719/Triple_Anterograde/)
 
