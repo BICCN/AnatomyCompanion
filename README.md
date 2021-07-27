@@ -109,8 +109,8 @@ Connectivity and structural organization examples of MOp-ul.
 
 [TRIO cases](https://download.brainimagelibrary.org/biccn/cemba/dong/TRIO/)
 
-[Cre-dependent Rabies-h2bEGFP (n=16)](https://download.brainimagelibrary.org:8811/74/02/7402741313727c9b/tissuecyte_data/)								
-[Cre-dependent Rabies-h2bEGFP (n=4)](https://download.brainimagelibrary.org:8811/ff/a2/ffa289283e3c635c/)		
+[Cre-dependent Rabies-h2bEGFP (n=16)](ftp://download.brainimagelibrary.org:8811/74/02/7402741313727c9b/tissuecyte_data/)								
+[Cre-dependent Rabies-h2bEGFP (n=4)](ftp://download.brainimagelibrary.org:8811/ff/a2/ffa289283e3c635c/)		
 									
  								
 [25 um - CCF registered nrrd files: Cre-dependent Rabies](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/Retrograde%20Monosynaptic%20Rabies/)									
