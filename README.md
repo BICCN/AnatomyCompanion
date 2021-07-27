@@ -51,7 +51,7 @@ The **Brain Architecture Project** is a collaborative effort aimed at creating a
 
 The Allen Institute for Brain Science has completed the three-dimensional mapping of the mouse cortex as part of the Allen Mouse Common Coordinate Framework (CCF): a standardized spatial coordinate system for comparing many types of data on the brain from the suite of Allen Brain Atlas resources. The Common Coordinate Framework was built by carefully averaging the anatomy of 1,675 specimens from the Allen Mouse Brain Connectivity Atlas. Researchers used transgenic mouse lines and data from viral tracers to draw boundaries between 43 regions of the cortex. The end result is a template brain rendered in three dimensions, which serves as a useful guide to mouse brain anatomy as well as a platform for comparing data across many Allen Brain Atlas resources
 
-[Allen Reference Atlas and Franklin-Paxinos atlas onto the adult CCF](https://kimlab.io/brain-map/atlas/)
+[Allen Reference Atlas and Franklin-Paxinos Atlas](https://kimlab.io/brain-map/atlas/)
 
 
 
