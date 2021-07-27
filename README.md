@@ -149,7 +149,8 @@ ftp://download.brainimagelibrary.org:8811/ff/a2/ffa289283e3c635c/
 
 [In situ sequencing data](https://download.brainimagelibrary.org/73/18/7318c6ca1f90e51f/)					
 
-Projection barcode sequencing data are deposited at SRA (SRR12247894)				
+[Projection barcode sequencing data are deposited at SRA (SRR12247894)](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fsra%2F%3Fterm%3DSRR12247894&amp;data=04%7C01%7C%7Cec3c74b42dac4fcc0f1d08d95119d7ad%7C32669cd6737f4b398bddd6951120d3fc%7C0%7C0%7C637629993709444160%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=KUiNrrJgDXZa3Jl9xI5h%2Bb%2Fy87KLNFDwPoRlJGGGSYQ%3D&amp;reserved=0)
+ 
 
 [Processed projection data and analysis codes (Mendeley Data)](http://dx.doi.org/10.17632/tmxd37fnmg.1)									
 
