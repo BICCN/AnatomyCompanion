@@ -198,7 +198,7 @@ Retrograde Spinal Injection	Neuroglancer link?
 
 [Anterograde PHAL](https://download.brainimagelibrary.org/26/54/265485a0756103a5/)
 
-[Retrograde Injections (CTB/FG) in cortex and thalamus]	Neuroglancer and/or MCP weblink
+[Coinjections of anterograde tracer PHAL and retrograde tracer CTB in the MOp](https://download.brainimagelibrary.org/5d/a6/5da6b3121be8bd14/SW110516-01A/)
  
 
 **Extended data Figure 11**
