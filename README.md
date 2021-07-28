@@ -191,7 +191,8 @@ Retrograde Spinal Injection	Neuroglancer link?
 
 **Extended data Figure 7**
  
- Retrograde Injections (CTB/FG) in TEa/ECT/PERI	Neuroglancer and/or MCP weblink
+ [Retrograde Injections (CTB/FG) in TEa/ECT/PERI](https://download.brainimagelibrary.org/5d/a6/5da6b3121be8bd14/)
+ 	 
  
 
 **Extended data Figure 10**
