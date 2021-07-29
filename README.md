@@ -86,6 +86,8 @@ The Allen Institute for Brain Science has completed the three-dimensional mappin
 #### Tape transfer method
 - [High-Throughput Method of Whole-Brain Sectioning, Using the Tape-Transfer Technique, Pinskiy et al, 2015](https://pubmed.ncbi.nlm.nih.gov/26181725/)
 
+#### Common Coordinate Framework
+[Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas](https://pubmed.ncbi.nlm.nih.gov/32386544/)
 
 
 ### *Figure 1. Anatomical delineation of the MOp upper limb and its organization.*
